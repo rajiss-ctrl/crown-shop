@@ -1,5 +1,5 @@
-
-import Directory from "../directory/directory.component";
+import Directory from "../../components/directory/directory.component";
+import './homepage.styles.scss';
 
 const HomePage = ({history}) => {
     return ( 
