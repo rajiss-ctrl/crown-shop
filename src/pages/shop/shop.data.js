@@ -66,7 +66,9 @@
        // imageUrl: "/images/shop-img/hats/blue-snapback.png",
         price: 16
       }
-    ] ,
+    ] 
+    },
+  {
       
     id: 2,
     title: 'Sneakers',
